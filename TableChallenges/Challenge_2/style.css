@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css?family=Indie+Flower");
+* {
+    font-family: 'Indie Flower';
+    font-weight: bold;
+}
+
+th {
+    color: #ff0000;
+}
+
+th,
+td {
+    background-color: #a0fcd6;
+    text-align: center;
+}
+
+hr {
+    border: 2px solid black;
+}

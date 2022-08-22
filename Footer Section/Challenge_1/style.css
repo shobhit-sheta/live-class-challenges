@@ -1,0 +1,42 @@
+
+.footer{
+    padding: 0px 200px;
+    margin-top: 20%;
+}
+.heading{
+    margin-left: 2%;
+    font-family: sans-serif;
+    font-weight: 900;
+}
+.content{
+    width: 100%;
+    float: left;
+    margin-bottom: 4%;
+    
+}
+h4{
+    font-size: 20px;
+}
+a{
+    font-size: 18px;
+    color: #000000;
+    text-decoration: none;
+}
+.content .services{
+    width: 25%;
+    float: left;
+}.content .social-media{
+    width: 25%;
+    float: left;
+}.content .links{
+    width: 25%;
+    float: left;
+}.content .details{
+    width: 25%;
+    float: left;
+}
+
+footer{
+    padding-bottom: 20px;
+    text-align: center;
+}

@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+footer{
+    margin-top: 50vh;
+}
+ul,a{
+    color: #ffffff;
+    text-decoration: none;
+    list-style: none;
+}
+.top{
+    width: 100%;
+    float: left;
+    background-color: #130b58;
+    padding: 30px 0px;
+}
+.logo-details{
+    width: 67%;
+    float: left;
+    color: #ffffff;
+    padding-left: 150px;
+    font-size: 25px;
+}
+.media-icons{
+    width: 20%;
+    float: left;
+}
+.fa-facebook-f{
+    border-radius: 100%;
+    background-color: #4a66ad;
+    font-size: 16px;
+    padding: 7px 10.5px;
+    color: #ffffff;
+} 
+.fa-twitter{
+    border-radius: 100%;
+    background-color: #4d9feb;
+    color: #ffffff;
+    font-size: 16px;
+    padding: 7px 7px;
+    margin-left: 8px;
+} 
+.fa-instagram{
+    border-radius: 100%;
+    background-color: #cf416d;
+    color: #ffffff;
+    font-size: 16px;
+    padding: 7px 8px;
+    margin-left: 8px;
+} 
+.fa-linkedin-in{
+    border-radius: 100%;
+    background-color: #3375b0;
+    color: #ffffff;
+    font-size: 16px;
+    padding: 7px 8px;
+    margin-left: 8px;
+} 
+.fa-youtube{
+    border-radius: 100%;
+    background-color: #ea3323;
+    color: #ffffff;
+    font-size: 16px;
+    padding: 7px 7px;
+    margin-left: 8px;
+} 
+.link-boxes{
+    margin-top: 1px;
+    width: 100%;
+    float: left;
+    background-color: #130b58;
+    padding-top: 35px;
+    padding-bottom: 45px;
+}
+.box{
+    margin-left: 150px;
+    width: 6%;
+    float: left;
+}
+.link_name{
+    font-size: 18px;
+    line-height: 2;
+    display: inline-block;
+    position: relative;
+}
+.link_name:before{
+    content: "";
+    width: 50%;
+    position: absolute;
+    height: 2px;
+    bottom: 0;
+    border-bottom: 2px solid #ffffff;
+}
+a{
+    font-size: 14px;
+    color: #d0cede;
+    line-height: 2;
+}
+.box input{
+    
+    font-size: 16px;
+    border-radius: 3px;
+}
+.box input[type=text]
+{
+    background: transparent;
+    padding-left:  10px;
+    width: 250px;
+    height: 30px;
+    border: 2px solid #afafb5;
+    color: #afafb5;
+    font-weight: 500;
+}
+.box input[type=button]
+{
+    margin-top: 10px;
+    background: #d0cede;
+    border: 2px solid #d0cede;
+    padding-left:  10px;
+    width: 264px;
+    height: 34px;
+    color: #130b58;
+    font-weight: bold;
+}
+.bottom-details{
+    background: #0e0841;
+    color: #a8a6bb;
+    width: 100%;
+    float: left;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+.copyright_text{
+    width: 60%;
+    float: left;
+    padding-left: 150px;
+}
+
+
+.policy_terms{
+    width: 20%;
+    float: left;
+    padding-left: 70px;
+}
+.policy_terms a{
+    padding-left: 20px;
+}
